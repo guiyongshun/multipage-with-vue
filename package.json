@@ -1,0 +1,24 @@
+{
+  "name": "vue2.0",
+  "version": "1.0.0",
+  "description": "learn vue2.0",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^2.6.8",
+    "axios": "^0.16.2",
+    "is-buffer": "^1.1.5",
+    "follow-redirects": "^1.2.4",
+    "vue": "^2.4.4",
+    "ms": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue2.0",
+    "axios"
+  ],
+  "author": "Misery",
+  "license": "ISC"
+}
