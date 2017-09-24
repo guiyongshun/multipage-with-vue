@@ -26,7 +26,7 @@ new Vue({
             })
             return totalPrice;
         },
-        getCheckAllFlag() {//单选时判断是否已背全选，方便同步全选状态
+        getCheckAllFlag() {//单选时判断是否已被全选，方便同步全选状态
             if(this.productList.length == 0) return false;
 
             return this.isCheckAll = this.productList.every(value => {
